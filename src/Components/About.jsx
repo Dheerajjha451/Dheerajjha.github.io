@@ -42,7 +42,6 @@ const skillsList = [
  */
 const detailOrQuote =
   "I am a versatile Full Stack Developer with a flair for crafting compelling UI/UX experiences. Eager to explore the captivating world of machine learning, I bring a unique blend of frontend finesse and backend prowess to the intersection of code, design, and intelligence. Join me on this exciting journey as we redefine the boundaries of innovation in the ever-evolving landscape of technology.";
-
 const About = () => {
   return (
     <section className="padding" id="about">
