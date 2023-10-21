@@ -31,12 +31,8 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Full Stack Devloper",
+  "UI & UX Designer",
 ];
 
 /**
@@ -45,7 +41,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am a versatile Full Stack Developer with a flair for crafting compelling UI/UX experiences. Eager to explore the captivating world of machine learning, I bring a unique blend of frontend finesse and backend prowess to the intersection of code, design, and intelligence. Join me on this exciting journey as we redefine the boundaries of innovation in the ever-evolving landscape of technology.";
 
 const About = () => {
   return (
