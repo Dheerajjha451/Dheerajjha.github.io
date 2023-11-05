@@ -53,8 +53,15 @@ const projectList = [
   {
     title: "VitalEase",
     description:
-      "VitalEase revolutionizes elderly care, offering simplified medication management, streamlined communication, and remote monitoring for an enhanced quality of life ",
+      "VitalEase revolutionizes elderly care, offering simplified medication management, streamlined communication, and remote monitoring for an enhanced quality of life.",
     url: "https://github.com/Dheerajjha451/vital-ease",
+  },
+
+  {
+    title: "StudBud",
+    description:
+      "Stay informed, make the most of your academic journey, and explore endless opportunities with StudBud. Welcome to a world of authentic, relevant information right at your fingertips.",
+    url: "https://github.com/Dheerajjha451/StudBud",
   },
 ];
 
