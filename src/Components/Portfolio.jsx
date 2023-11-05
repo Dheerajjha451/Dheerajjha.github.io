@@ -33,7 +33,7 @@ const projectList = [
   {
     title: " Wordlist-Generator",
     description:
-      "t is Created to Enable Ethical Hackers to download their preferable Wordlists. As we all know, wordlists play an important part in an ethical hacker’s job. Preference makes it easier for the hacker to brute force efficiently. Therefore, we have designed this Wordlist Generator to overcome this problem get started.",
+      "It is Created to Enable Ethical Hackers to download their preferable Wordlists. As we all know, wordlists play an important part in an ethical hacker’s job. Preference makes it easier for the hacker to brute force efficiently. Therefore, we have designed this Wordlist Generator to overcome this problem get started.",
     url: "https://github.com/Dheerajjha451/wordlist.github.io",
   },
   {
