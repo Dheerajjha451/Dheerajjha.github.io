@@ -49,6 +49,13 @@ const projectList = [
       "A QR-Attendance System is a system that is used to take attendance of students in a class. It is a simple and efficient way to take attendance. It is a system that is used to take attendance of students in a class.",
     url: "https://github.com/Dheerajjha451/QR-Attendance-System",
   },
+
+  {
+    title: "VitalEase",
+    description:
+      "VitalEase revolutionizes elderly care, offering simplified medication management, streamlined communication, and remote monitoring for an enhanced quality of life ",
+    url: "https://github.com/Dheerajjha451/vital-ease",
+  },
 ];
 
 const Portfolio = () => {
